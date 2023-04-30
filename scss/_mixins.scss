@@ -1,0 +1,53 @@
+@mixin title3 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 54px;
+    color: #2C4058;
+}
+@mixin title5 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-size: 22px;
+    line-height: 27px;
+    color: #2C4058;
+}
+@mixin text {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    color: #2C4058;
+}
+@mixin location {
+    font-family: 'Open Sans';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    color: #000000;
+
+}
+@mixin author__name {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #2c4058;
+
+}
+@mixin author__date {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #55b7ff;
+}
+
+
+
+    
